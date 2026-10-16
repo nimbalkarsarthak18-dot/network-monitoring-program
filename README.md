@@ -6,21 +6,7 @@ A small Python defensive-security project for learning and evidence collection.
 - Python 3.10 or newer
 - No third-party Python packages required
 
-## Run in VS Code
-1. Extract this ZIP file.
-2. Open the `network_security_monitor` folder in VS Code.
-3. Open Terminal → New Terminal.
-4. Run:
 
-   ```bash
-   python main.py
-   ```
-
-   On some Windows installations, use:
-
-   ```bash
-   py main.py
-   ```
 
 5. For a safe first test, press Enter to use `localhost`, then choose option `1`.
 6. The CSV report is saved in the `reports` folder.
