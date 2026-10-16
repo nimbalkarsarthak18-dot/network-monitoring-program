@@ -1,0 +1,4 @@
+timestamp,target,port,service,status,details
+2026-10-16T01:41:21+05:30,127.0.0.1,80,HTTP,NO RESPONSE,Connection timed out; this does not prove the port is closed.
+2026-10-16T01:41:22+05:30,127.0.0.1,443,HTTPS,NO RESPONSE,Connection timed out; this does not prove the port is closed.
+2026-10-16T01:41:22+05:30,127.0.0.1,8080,HTTP-alt,NO RESPONSE,Connection timed out; this does not prove the port is closed.
